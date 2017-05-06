@@ -1,0 +1,73 @@
+body {
+	background: powderblue;
+}
+
+#header {
+	background-color: #D66324;
+	color: white;
+	padding: 10px;
+	width: 250px;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+
+#how-to {
+	background-color: tan;
+	color: green;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 20px;
+}
+
+
+#cpu-score {
+	background-color: green;
+	color: purple;
+	border: 1px solid black;
+	margin: 5px;
+	width: 33%;
+	/*float: left;*/
+}
+
+#w-l {
+	background-color: skyblue;
+	/*clear: both;*/
+	border: 1px solid black;
+	margin: 5px;
+	width: 33%;
+}
+
+#img1 {
+	float: left;
+}
+
+#img2 {
+	float: left;
+}
+
+#img3 {
+	float: left;
+}
+
+#img4 {
+	float: left;
+}
+
+#total-score {
+	clear: both;
+	background-color: teal;
+	color: white;
+	margin: 5px;
+	border: 1px solid black;
+	width: 40%;
+}
+
+#player-score {
+	background-color: teal;
+	margin: 5px;
+	padding: 40px;
+	border: 1px solid black;
+	color: white;
+	width: 40%;
+}
